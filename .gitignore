@@ -1,2 +1,4 @@
 *.dump
 *.lammpstrj
+lmp.pbs
+log
