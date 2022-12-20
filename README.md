@@ -16,7 +16,7 @@ End to end scripts for LAMMPS simulating cascade and OVITO extracting defect.
 It is recommanded to install python and the libraries in a conda enviroment. 
 
 ```bash
-conda create -n CascadeSim -c conda-forge python=3 numpy matplotlib ovito=2.9
+conda create -n CascadeSim python=3 numpy matplotlib conda-forge::ovito=2.9
 ```
 
 ## Intallation
