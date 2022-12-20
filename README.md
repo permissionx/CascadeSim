@@ -2,7 +2,7 @@
 End to end scripts for LAMMPS simulating cascade and OVITO extracting defect. 
 
 ## Features
-* End to end finish the cascade simulation jobs.
+* Finish the cascade simulation jobs almost by one key. Only a few paremeters need to be concerned. 
 * SIA directions.
 
 ## Prerequisites 
