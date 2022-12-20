@@ -1,12 +1,17 @@
 # CascadeSim
 End to end scripts for LAMMPS simulating cascade and OVITO extracting defect. 
 
+## Features
+* End to end finish the cascade simulation jobs.
+* SIA directions.
+
 ## Prerequisites 
 * Lammps compiled with voronoi package.
 * Python 3.6 or newer.
-* Ovito2.9 python library.
-* Numpy python library.
-* Matplotlib python library.
+* Python libraries:
+    * ovito 2.9
+    * numpy
+    * matplotlib
 
 It is recommanded to install python and the libraries in a conda enviroment. 
 
