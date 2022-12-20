@@ -71,5 +71,5 @@ Example above will calculate 2(temps)*3(energies)*2(angles)*10(random seeds) = 1
 * Update the OVITO interfact to 3.x.
 * Add basic data statistics, such as defect nums VS sizes. 
 
-## Acknowledge
+## Acknowledgements
 Any bug reports and feature requests are highly welcome. 
