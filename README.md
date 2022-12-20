@@ -14,6 +14,10 @@ It is recommanded to install python and the libraries in a conda enviroment.
 conda create -n CascadeSim -c conda-forge python=3 numpy matplotlib ovito=2.9
 ```
 
+## Intallation
+Simply download scripts.
+`git clone https://github.com/permissionx/CascadeSim.git`
+
 ## Usage
 1. Assign input arguments in lammps in file `in` and run the LAMMPS.
 ```
