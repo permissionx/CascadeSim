@@ -19,7 +19,7 @@ conda create -n CascadeSim python=3 numpy matplotlib conda-forge::ovito=2.9
 ```
 If your device is not able to access Internet directly, ask your system manager to establish a ssh tunel for temperary download. 
 
-## Intallation
+## Installation
 Simply download scripts.
 `git clone https://github.com/permissionx/CascadeSim.git`
 
