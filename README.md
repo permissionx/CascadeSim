@@ -61,7 +61,7 @@ Example above will calculate 2(temps)*3(energies)*2(angles)*10(random seeds) = 1
 
 2. After finish the LAMMPS calculation. lammps trajetory files will writen in the dump folder. And a file `folder_name.csv` will be generated to store the names of all the calculated cases. To extract Step into `cascade_scripts`. Modify input paras in `extract_defect.py`.
 
-3. Execuate defect extraction by typing `python extract_defect.py` in the shell. Results of the defects during and after cascade will be stored in `[ cluster_dump_folder]`
+3. Execuate defect extraction by typing `python extract_defect.py` in the shell. Results of the defects during and after cascade will be stored in `[cluster_dump_folder]`
 
 
 ## Known issues
