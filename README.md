@@ -23,7 +23,7 @@ If your device is not able to access Internet directly, ask your system manager 
 Simply download scripts.
 `git clone https://github.com/permissionx/CascadeSim.git`
 
-## Usage
+## :rocket:Usage
 1. Assign input arguments in lammps in file `in` and run the LAMMPS.
 ```
 #-----------------------------------------------------
