@@ -50,7 +50,7 @@ variable        lattice_constant equal 3.14
 
 
 # variable computes
-variable        v_PKA equal 1*sqrt(${E_PKA})*324.3739594  # unit: Angstrom / ps
+variable        v_PKA equal 1*sqrt(${E_PKA})*324.021  # unit: Angstrom / ps
 variable        tem_cv equal ${env_temp}*2
 variable        box_l equal -1*${box_r}
 variable        nf_r equal ${box_r}-${fix_th}
