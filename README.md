@@ -70,7 +70,7 @@ Example above will calculate 2(temps)*3(energies)*2(angles)*10(random seeds) = 1
 
 
 ## Known issues
-* Cannot extract defect for too many cases (may over 500) at once. Splitting the execuation into mutiple times by modify `extract_defect.py` can solve this problem temporarily.
+* Cannot extract defect for too many cases (may over 500) at once. Splitting the execuation into mutiple times by modifying `extract_defect.py` can solve this problem temporarily.
 
 ## Things to do
 * Update the OVITO interfact to 3.x.
