@@ -2,8 +2,8 @@
 End to end scripts for LAMMPS simulating cascade and OVITO extracting defect. 
 
 ## Features
-* Finish a series of cascade simulation jobs almost by one key. Only a few paremeters need to be concerned. 
-* You will know SIA directions, defect cluster informations. 
+* You can finish a series of cascade simulation jobs almost by one key. Only a few paremeters need to be concerned. 
+* You will know SIA directions or defect cluster informations. 
 
 ## Prerequisites 
 * Lammps compiled with voronoi package.
@@ -17,7 +17,7 @@ It is recommanded to install python and the libraries in a conda enviroment, whi
 ```bash
 conda create -n CascadeSim python=3 numpy matplotlib conda-forge::ovito=2.9
 ```
-If your device is not able to access Internet directly, ask your system manager to establish a ssh tunel for temperary download. 
+If your device is not able to access the Internet directly, ask your system administrator to establish a ssh tunel for temperary download.  Ancient saying: as long as your personal PC can access your server, there is always a way to make your server access the Internet. 
 
 ## Installation
 Simply download scripts.
